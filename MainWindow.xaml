@@ -13,10 +13,6 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
-        <!--<Grid Height="70" VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="0,0,-0.4,0">
-            <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="388" Margin="190,109,0,-427" Stroke="Black" VerticalAlignment="Top" Width="762"/>
-        </Grid>-->
-
         <TextBox Name="sokuser" Background="#BCB6B4" Foreground="black" FontSize="13" HorizontalAlignment="Left" Margin="944,141,0,0" VerticalAlignment="Top" Width="91" Height="22" Grid.ColumnSpan="2" RenderTransformOrigin="0.148,0.754" />
         <Button Content="Search User" HorizontalAlignment="Left" Margin="942,109,0,0" VerticalAlignment="Top" Width="93" Height="25" Grid.ColumnSpan="2" Click="Button_Click_1" RenderTransformOrigin="-1.294,2.215"/>
         <TextBox Name="sokreview" Background="#BCB6B4" Foreground="black" FontSize="13" HorizontalAlignment="Left" Margin="942,250,0,0" VerticalAlignment="Top" Width="93" Height="22" Grid.ColumnSpan="2" RenderTransformOrigin="0.148,0.754" />
